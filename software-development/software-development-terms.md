@@ -21,8 +21,18 @@ This way, if some error occurs, you can be sure that the error is not in additio
 
 
 ## Word: Job Scheduling
-### Description
+### Description:
 Job Scheduling is the way of executing actions at specific time, either once or repitively. For example, you can schedule a random number generator to generate random numbers after every 2 hours.
 #### search keywords: schedule, schedular
 #### relevant words: cron, schedular
+#### scope: beginner
+
+## Word: Payment Gateway
+### Description:
+Payment gateway is a service used by organizations to sell their products and get the payment online from customers.  
+Most companies use already built payment gateways instead of building their own for payment related actions.  
+A payment gateway can be added into the application/project by following the guidelines provided by the gateway providing companies.  
+Some common examples of payment gateways are PayPal, Paddle, fastSpring etc.
+#### search keywords: payment, payment gateway, money
+#### relevant words:
 #### scope: beginner
