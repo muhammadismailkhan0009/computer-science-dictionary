@@ -6,7 +6,7 @@ TDD is the software development approach in which we write the failing test of t
 In simple form: write test -> write code to pass the test -> write test -> write code to pass the test ......
 #### search keywords: TDD, test, testing
 #### relevant words: Unit Testing, Integration Testing, Mock 
-#### scope: intermediate
+#### scope: beginner
 
 
 ## Word: Unit Testing
@@ -17,7 +17,7 @@ Once addition passes your tests, you can then use addition method to write multi
 This way, if some error occurs, you can be sure that the error is not in addition method.
 #### search keywords, unit test, tests, test
 #### relevant words: Test Driven Development, 
-#### scope: intermediate
+#### scope: beginner
 
 
 ## Word: Job Scheduling
