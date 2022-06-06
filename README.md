@@ -7,7 +7,7 @@ To see software development words: [software-development words link](software-de
 # Format
 The format in which data should be entered into file is mentioned in [format file](format.md). Kindly go through it. See the data file present in [software-development](software-development) folder for how to input data.
 
-# Additional information:
+# How to Contribute:
 This repository contains two branches: main, and development.
 
 ***To contribute, Kindly fork this project into your repository, and create pull request from forked project.  
