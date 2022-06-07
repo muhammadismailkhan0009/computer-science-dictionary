@@ -5,7 +5,7 @@ The aim of this dictionary is to provide definitions of most commonly used compu
 To see software development words: [software-development words](computer-science/computer-science-terms.md)
 
 # Format
-The format in which data should be entered into file is mentioned in [format file](format.md). Kindly go through it. See the data file present in [software-development](software-development) folder for how to input data.
+The format in which data should be entered into file is mentioned in [format file](format.md). Kindly go through it. See the data file present in [software-development words](computer-science/computer-science-terms.md) folder for how to input data.
 
 # How to Contribute:
 This repository contains two branches: main, and development.
