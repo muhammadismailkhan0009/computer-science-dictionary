@@ -11,7 +11,7 @@ The format in which data should be entered into file is mentioned in [format fil
 This repository contains two branches: main, and development.
 
 ***To contribute, Kindly fork this project into your repository, and create pull request from forked project.  
-Also, the merge request must be made on development branch of the project.  
+The merge request must be made on development branch of the project.  
 Thank you***
 
 
