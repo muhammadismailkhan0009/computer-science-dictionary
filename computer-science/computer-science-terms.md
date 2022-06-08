@@ -51,9 +51,19 @@ Typical examples of ISP are Cellular Internet Providers, Wifi Internet Providers
 #### scope: beginner
 
 ## Word: Internet Standard
+### Description:
 Internet standard refers to approved guidelines that provide information about the correct use of a specific technology. For example, Internet Standard document [RFC 5321](https://datatracker.ietf.org/doc/html/rfc5321) provides guidelines about what SMTP is, and how to use it correctly.  
 Internet Standards are approved by Internet Engineering Task Force(IEFT), a standard organization responsible for technical standards for internet.  
 #### search keywords: internet standard, IEFT
 #### relevant words:
 #### category: computer networks
 #### scope: advanced
+
+## Word: Inversion of Control
+### Description:
+IoC is the programming principle in which the flow of code is controlled by framework rather than by yourself. In simple terms, instead of you calling the functions in your code to use them, the framework does this for you. You just have to initialize the class object with dependency injection into you code where you want to use the function. 
+#### search keywords: inversion of control, ioc
+#### relevant words: dependency injection
+#### category: software development
+#### scope: advanced
+
