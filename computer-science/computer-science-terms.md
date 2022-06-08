@@ -67,3 +67,19 @@ IoC is the programming principle in which the flow of code is controlled by fram
 #### category: software development
 #### scope: advanced
 
+## Word: Secure Shell Protocol
+### Description:
+SSH protocol is the is a method of secure remote login from one computer to another computer. For example, you want to access your cloud server system on your personal computer. You will use secure shell protocol(ssh) to access the remote server securely.
+#### search keywords: secure shell protocol, ssh, protocol, ssh-key
+#### relevant words: ssh-key, remote
+#### category: computer networks, software development
+#### scope: advanced
+
+## Word: ssh-key
+### Description:
+ssh-key is the secure, cryptographically generated key that is used in ssh protocol to have secure remote login from one computer to another. You generate ssh-key on the server you want to have remote access to(e.g. your cloud server), and you insert the key into the system you want to have remote access from(e.g your personal computer).
+#### search keywords: ssh-key, ssh key, ssh
+#### relevant words: secure shall protocol
+#### category: computer networks, software development
+#### scope: advanced
+
