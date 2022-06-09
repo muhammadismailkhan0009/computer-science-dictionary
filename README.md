@@ -1,10 +1,8 @@
 # Computer Science Dictionary
-This repository provides Computer Science dictionary in which the definitions of most commonly used computer science terms are defined.  
-
 The aim of this dictionary is to provide definitions of most commonly used computer science concepts at one place, whether be they related to **machine learning, or data science, computer networks, or software development**.  
 To see software development words: [software-development words](computer-science/computer-science-terms.md)  
 
-***Everyone is welcome to contribute to the dictionary. Those who are new in the field, and are looking for their first open source contribution are most welcome.  
+***Everyone is welcome to contribute to the dictionary.  
 This repository is best opportunity for those who are new in their respective fields, and are learning new things every day.***
 
 # Why I started the project:
