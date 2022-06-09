@@ -100,3 +100,12 @@ Git is different from Github in the sense that Github is one of many GUI impleme
 #### relevant words: version control
 #### category: software development
 #### scope: beginner
+
+## Word: Servlet
+### Description:
+Servelet is a small java program that runs inside a web server. A servlet ususally receives and responds to requests from web client(browser).  
+For example, you build function that will add two numbers. You write a piece of code that will take numbers which are inputted into browser webpage, and shall return the result to the browser. That piece of code is called servlet.  
+#### search keywords: servlet
+#### relevant words: web client, rest, api
+#### category: software development
+#### scope: beginner
