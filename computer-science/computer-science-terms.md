@@ -83,3 +83,20 @@ ssh-key is the secure, cryptographically generated key that is used in ssh proto
 #### category: computer networks, software development
 #### scope: advanced
 
+## Word: Version Control
+### Description:
+Version control is a system which allows us to manage changes in our code, and keep track of the the changes.  
+A simple example of version control system is GitHub. It allows changes in code as well as keep record of all the changes occured. 
+#### search keywords: version control, git
+#### relevant words: git
+#### category: software development
+#### scope: beginner
+
+## Word: Git
+### Description:
+Git is a version control and collaboration software used to track changes in any set of files.  
+Git is different from Github in the sense that Github is one of many GUI implementations of Git. GitLab is another implementation that uses Git. 
+#### search keywords: git, version control
+#### relevant words: version control
+#### category: software development
+#### scope: beginner
