@@ -117,4 +117,11 @@ For example, you write two functions: addition and substraction. You execute the
 #### search keywords: jit, just in time
 #### relevant words: compilation, aot, ahead-of-time,
 #### category: software development
-#### scope: begineer
+#### scope: advanced
+
+## AOT
+AOT(ahead-of-time) compilation is a way of compiling code in which all the code is compiled to machine interpretable code(in most cases) before code execution. A simple example is compilaton of C language code. In a sense, AOT concept is opposite to JIT concept.
+#### search keywords: aot, ahead of time
+#### relevant words: compilation, jit, just-in-time
+#### category: software development
+#### scope: advanced
