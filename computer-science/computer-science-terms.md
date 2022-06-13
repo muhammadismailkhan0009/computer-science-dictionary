@@ -13,7 +13,7 @@ In simple form: write test -> write code to pass the test -> write test -> write
 ## Word: Unit Testing
 ### Decription:
 Unit testing is TDD approach in which single methods/units of code are tested to see if they work, and are providing desired results.  
-For example, Let's say your calculator application contains methods such as addition, and multiplication. Here, addition, is independent methods, while multiplication depends upon additoin. You may unit test additon by calling method on two random numbers to check if it is giving correct results.  
+For example, Let's say your calculator application contains methods such as addition, and multiplication. Here, addition, is independent methods, while multiplication depends upon additoin. You may unit test addition by calling method on two random numbers to check if it is giving correct results.  
 Once addition passes your tests, you can then use addition method to write multiplication logic without worrying about whether addition method will give wrong results.  
 This way, if some error occurs, you can be sure that the error is not in addition method.
 #### search keywords, unit test, tests, test, unit testing
@@ -109,3 +109,12 @@ For example, you build function that will add two numbers. You write a piece of 
 #### relevant words: web client, rest, api
 #### category: software development
 #### scope: beginner
+
+## JIT
+### description:
+JIT(just-in-time) compilation is a way of compiling a code snippet during code execution(runtime) rather than before code execution. In jit compilation, the code is compiled at runtime, but only that code snippet is compiled which is actually needed at that time.  
+For example, you write two functions: addition and substraction. You execute the code, and it starts running. However, neither addition nor subsctarction codes snippets have been compiled yet. Now, you call addition functions in your code. At the moment, the addition function code snippet is compiled and is then executed.In that sense, JIT compilation is basically a dynamic compilation.
+#### search keywords: jit, just in time
+#### relevant words: compilation, aot, ahead-of-time,
+#### category: software development
+#### scope: begineer
