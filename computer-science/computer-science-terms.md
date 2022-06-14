@@ -110,8 +110,8 @@ For example, you build function that will add two numbers. You write a piece of 
 #### category: software development
 #### scope: beginner
 
-## JIT
-### description:
+## Word: JIT
+### Description:
 JIT(just-in-time) compilation is a way of compiling a code snippet during code execution(runtime) rather than before code execution. In jit compilation, the code is compiled at runtime, but only that code snippet is compiled which is actually needed at that time.  
 For example, you write two functions: addition and substraction. You execute the code, and it starts running. However, neither addition nor subsctarction codes snippets have been compiled yet. Now, you call addition functions in your code. At the moment, the addition function code snippet is compiled and is then executed.In that sense, JIT compilation is basically a dynamic compilation.
 #### search keywords: jit, just in time
@@ -119,9 +119,36 @@ For example, you write two functions: addition and substraction. You execute the
 #### category: software development
 #### scope: advanced
 
-## AOT
-AOT(ahead-of-time) compilation is a way of compiling code in which all the code is compiled to machine interpretable code(in most cases) before code execution. A simple example is compilaton of C language code. In a sense, AOT concept is opposite to JIT concept.
+## Word: AOT
+### Description:
+AOT(ahead-of-time) compilation is a way of compiling code in which all the code is compiled to machine interpretable code(in most cases) before code execution. A simple example is compilation of C language code. In a sense, AOT concept is opposite to JIT concept.
 #### search keywords: aot, ahead of time
 #### relevant words: compilation, jit, just-in-time
 #### category: software development
 #### scope: advanced
+
+## Word: client
+### Description:
+In computer science domain, client is any hardware or software component that accesses some service/function made available by some other computer hardware/software (called server) as part of client-server model of computer networks.  
+For example, when we write some search item on a search engine(e.g. google), our web browser acts as client which requests to access the service provided by google server.
+#### search keywords: client
+#### relevant words: server, client-server model
+#### category: software development, computer networks
+#### scope: beginner
+
+## Word: server
+### Description:
+In computer seience domain, server is any hardware of software component that provides functionality/service for other programs called "clients".
+For example, google search engine is a server that provides search functionality via the web browsers acting as clients.  
+#### search keywords: server
+#### relevant words: cleint, client-server model
+#### category: software development, computer networks
+#### scope: beginner
+
+## Word: client-server model
+### Description:
+In computer science domain, client-server model is a computer networking model based on clients and servers.
+#### searc hkeywords: server
+#### relevant words: client, server
+#### category: software development, computer networks
+#### scope: beginner
