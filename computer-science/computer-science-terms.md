@@ -148,7 +148,15 @@ For example, google search engine is a server that provides search functionality
 ## Word: client-server model
 ### Description:
 In computer science domain, client-server model is a computer networking model based on clients and servers.
-#### searc hkeywords: server
+#### search keywords: server
 #### relevant words: client, server
 #### category: software development, computer networks
 #### scope: beginner
+
+## Word: SQL Injection
+SQL injection is a web security vulnerability that allows attacker to directly interact with our backend database without admin access, usually from front-end. For example, Let's there are two subscription plans: A and B in our database. One user has plan A, and he wants to delete it. Now, if we are passing plan id as parameter to backend, the user can simply change the plan Id in browser and some other plan will be deleted which did not belong to user.  
+To avoid such issue, if it is necessary to pass table ids to backend, make sure to add proper checks on backend to validate the data. 
+#### search keywords: sql injection, sql attacks, sql attack
+#### relevant words: database
+#### category, software development
+#### scope: begineer
