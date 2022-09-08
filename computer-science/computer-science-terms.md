@@ -160,3 +160,29 @@ To avoid such issue, if it is necessary to pass table ids to backend, make sure 
 #### relevant words: database
 #### category, software development
 #### scope: begineer
+
+## Word: routing
+### Description:
+Routing is the process of selecting path for traffic from a network, or different networks.
+For example, Let's say you want to visit facebook in china. Now,default china internet routing paths block facebook. So, you will need to use VPN which will send your facebook page request(traffic) via different path, thus routing your traffic to allows facebook page.
+#### search keywords: routing
+#### relevant words: routing
+#### category: software development, computer networks
+#### scope: beginner
+
+## Word: Regional Internet Registery(RIR)
+### Description:
+RIR is an organization that manages the allocation and registeration of internet number resources within a specific region of the world. These internet number resources include IP addresses and autonomous systems(AS) numbers.
+There are five RIRs for different regions of the world:
+- RIPE NCC(Réseaux IP Européens Network Coordination Centre) serves Europe, Central Asia, Russia, and West Asia.
+- LACNIC(Latin America and Caribbean Network Information Centre) serves most of the Caribbean and all of Latin America
+- AFRINIC(African Network Information Center) serves Africa.
+- ARIN(American Registry for Internet Numbers) serves Antarctica, Canada, parts of the Caribbean, and the United States.
+- APNIC(Asia-Pacific Network Information Centre) serves East Asia, Oceania, South Asia, and Southeast Asia.
+#### search keywords: RIR
+#### relevant words: registery
+#### category: computer networks, cybersecurity
+#### scope: medium,expert
+
+
+
