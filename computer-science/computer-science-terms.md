@@ -184,5 +184,24 @@ There are five RIRs for different regions of the world:
 #### category: computer networks, cybersecurity
 #### scope: medium,expert
 
+## Word: Type introspection
+### Description:
+Type introspection is the ability of a programm/(programming language) to examine the type or properties of an object at runtime. For example, you can find out the type of an object, which class does it belongs to etc in some programming languages because of type intropection.
+Some languages that support type introspection are java, python ruby etc.
+#### search keywords: type introspection, type, intrspection, introspect
+#### relevant words: reflective prgramming, reflection, type
+#### category: software development
+#### scope: medium,expert
+
+
+## Word: Reflective Programming
+### Description:
+Reflective programming is the ability of a process to examine, introspect, and modify its own structure and behaviour. For a programming language, it is the ability of descovering the types and objects in an application, and being able to perform coded actions using those types.
+Java supports reflective programming.
+An example of reflective programming is the use of generics in java.
+#### search keywords: reflection, reflective, reflective programming
+#### relevant words: type introspection
+#### category: software development
+#### scope: medium,expert
 
 
