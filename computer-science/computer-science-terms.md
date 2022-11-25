@@ -148,7 +148,60 @@ For example, google search engine is a server that provides search functionality
 ## Word: client-server model
 ### Description:
 In computer science domain, client-server model is a computer networking model based on clients and servers.
-#### searc hkeywords: server
+#### search keywords: server
 #### relevant words: client, server
 #### category: software development, computer networks
 #### scope: beginner
+
+## Word: SQL Injection
+SQL injection is a web security vulnerability that allows attacker to directly interact with our backend database without admin access, usually from front-end. For example, Let's there are two subscription plans: A and B in our database. One user has plan A, and he wants to delete it. Now, if we are passing plan id as parameter to backend, the user can simply change the plan Id in browser and some other plan will be deleted which did not belong to user.  
+To avoid such issue, if it is necessary to pass table ids to backend, make sure to add proper checks on backend to validate the data. 
+#### search keywords: sql injection, sql attacks, sql attack
+#### relevant words: database
+#### category, software development
+#### scope: begineer
+
+## Word: routing
+### Description:
+Routing is the process of selecting path for traffic from a network, or different networks.
+For example, Let's say you want to visit facebook in china. Now,default china internet routing paths block facebook. So, you will need to use VPN which will send your facebook page request(traffic) via different path, thus routing your traffic to allows facebook page.
+#### search keywords: routing
+#### relevant words: routing
+#### category: software development, computer networks
+#### scope: beginner
+
+## Word: Regional Internet Registery(RIR)
+### Description:
+RIR is an organization that manages the allocation and registeration of internet number resources within a specific region of the world. These internet number resources include IP addresses and autonomous systems(AS) numbers.
+There are five RIRs for different regions of the world:
+- RIPE NCC(Réseaux IP Européens Network Coordination Centre) serves Europe, Central Asia, Russia, and West Asia.
+- LACNIC(Latin America and Caribbean Network Information Centre) serves most of the Caribbean and all of Latin America
+- AFRINIC(African Network Information Center) serves Africa.
+- ARIN(American Registry for Internet Numbers) serves Antarctica, Canada, parts of the Caribbean, and the United States.
+- APNIC(Asia-Pacific Network Information Centre) serves East Asia, Oceania, South Asia, and Southeast Asia.
+#### search keywords: RIR
+#### relevant words: registery
+#### category: computer networks, cybersecurity
+#### scope: medium,expert
+
+## Word: Type introspection
+### Description:
+Type introspection is the ability of a programm/(programming language) to examine the type or properties of an object at runtime. For example, you can find out the type of an object, which class does it belongs to etc in some programming languages because of type intropection.
+Some languages that support type introspection are java, python ruby etc.
+#### search keywords: type introspection, type, intrspection, introspect
+#### relevant words: reflective prgramming, reflection, type
+#### category: software development
+#### scope: medium,expert
+
+
+## Word: Reflective Programming
+### Description:
+Reflective programming is the ability of a process to examine, introspect, and modify its own structure and behaviour. For a programming language, it is the ability of descovering the types and objects in an application, and being able to perform coded actions using those types.
+Java supports reflective programming.
+An example of reflective programming is the use of generics in java.
+#### search keywords: reflection, reflective, reflective programming
+#### relevant words: type introspection
+#### category: software development
+#### scope: medium,expert
+
+
