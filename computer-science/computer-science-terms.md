@@ -208,7 +208,7 @@ An example of reflective programming is the use of generics in java.
 ### Description:
 Forward proxy sits between client and internet, intercepts the requests sent by client and processes them before forwarding those requests to internet service. A simple example of forward proxy is vpn service, which changes the ip address of the request. So, in essence, a forward proxy hides the client from the internet.
 A simple flow of a web request with forward proxy will be as follows:
-cleint -> forward proxy -> internet
+client -> forward proxy -> internet
 #### search keywords: proxy, forward proxy
 #### relevant words: proxy, reverse proxy
 #### category: software development
@@ -221,6 +221,14 @@ A simple flow of a web request with forward proxy will be as follows:
 internet -> reverse proxy -> website(webserver hosting the website)
 #### search keywords: proxy, reverse proxy
 #### relevant words: proxy, forward proxy
+#### category: software development
+#### scope: medium,expert
+
+## Word: Indexing
+### Description:
+In computer programming, indexing is the process of saving the data into virtual data structures in RAM/in-memory storage. For example, if we load a csv file into a list in java, we shall be indexing the csv data.
+#### search keywords: indexing, index
+#### relevant words: 
 #### category: software development
 #### scope: medium,expert
 
