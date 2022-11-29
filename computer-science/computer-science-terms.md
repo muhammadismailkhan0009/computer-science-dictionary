@@ -204,4 +204,23 @@ An example of reflective programming is the use of generics in java.
 #### category: software development
 #### scope: medium,expert
 
+## Word: Forward Proxy
+### Description:
+Forward proxy sits between client and internet, intercepts the requests sent by client and processes them before forwarding those requests to internet service. A simple example of forward proxy is vpn service, which changes the ip address of the request. So, in essence, a forward proxy hides the client from the internet.
+A simple flow of a web request with forward proxy will be as follows:
+cleint -> forward proxy -> internet
+#### search keywords: proxy, forward proxy
+#### relevant words: proxy, reverse proxy
+#### category: software development
+#### scope: medium,expert
+
+## Word: Revers Proxy
+### Description:
+Reverse proxy sits between internet and the website(or webserver hosting target website), intercepts the requests sent by client and processes them before forwarding those requests to web servers. A reverse proxy is used to hide the ip address of the web server hosting the target website behind a domain name. For example, google.com is the domain name that is shown to us instead of ip address of the server hosting the google website because of reverse proxy.
+A simple flow of a web request with forward proxy will be as follows:
+internet -> reverse proxy -> website(webserver hosting the website)
+#### search keywords: proxy, reverse proxy
+#### relevant words: proxy, forward proxy
+#### category: software development
+#### scope: medium,expert
 
