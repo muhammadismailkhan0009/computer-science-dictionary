@@ -179,7 +179,7 @@ There are five RIRs for different regions of the world:
 - AFRINIC(African Network Information Center) serves Africa.
 - ARIN(American Registry for Internet Numbers) serves Antarctica, Canada, parts of the Caribbean, and the United States.
 - APNIC(Asia-Pacific Network Information Centre) serves East Asia, Oceania, South Asia, and Southeast Asia.
-#### search keywords: RIR
+#### search keywords: RIR, internet registery
 #### relevant words: registery
 #### category: computer networks, cybersecurity
 #### scope: medium,expert
@@ -217,7 +217,7 @@ client -> forward proxy -> internet
 ## Word: Revers Proxy
 ### Description:
 Reverse proxy sits between internet and the website(or webserver hosting target website), intercepts the requests sent by client and processes them before forwarding those requests to web servers. A reverse proxy is used to hide the ip address of the web server hosting the target website behind a domain name. For example, google.com is the domain name that is shown to us instead of ip address of the server hosting the google website because of reverse proxy.
-A simple flow of a web request with forward proxy will be as follows:
+A simple flow of a web request with reverse proxy will be as follows:
 internet -> reverse proxy -> website(webserver hosting the website)
 #### search keywords: proxy, reverse proxy
 #### relevant words: proxy, forward proxy
@@ -231,4 +231,12 @@ In computer programming, indexing is the process of saving the data into virtual
 #### relevant words: 
 #### category: software development
 #### scope: medium,expert
+
+## Word: DNS
+### Description:
+DNS(domain name system) acts as phonebook of internet. It translate domain names to IP addresses and vice versa for identification. For example domain "google.com" has IP address "142.250.181.174" associated with it. DNS converts IP addresses to domain names so that they can be accessed by browsers for easy human accessibility as humans search with domain names rather than complex numbers(e.g IP address).
+#### search keywords: dns, domain name system domain system
+#### relevant words: ip address, rir
+#### category: computer networks
+#### scope: expert
 
