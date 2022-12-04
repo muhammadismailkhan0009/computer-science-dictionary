@@ -240,3 +240,11 @@ DNS(domain name system) acts as phonebook of internet. It translate domain names
 #### category: computer networks
 #### scope: expert
 
+## Word: multi tenant architecture
+### Description:
+It is a software architecture in which a single software/program is shared by multiple clients(called tenants). In this architecture, the tenants share the same hardware, but are logically separated. A shared cloud server is an example. In shared cloud server, a web server is running in a separate virtual env/container on a physical server which contains servers of many other customers as well; being served from same physical system but are running in isolated containers. Other example of this architecture is virtualization i.e. using virtual box to run linux on windows OS.
+#### search keywords: architecture, software architecture, multi tenant architecture
+#### relevant words: software architecture
+#### category: software development
+#### scope: expert
+
