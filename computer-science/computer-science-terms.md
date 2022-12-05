@@ -248,3 +248,19 @@ It is a software architecture in which a single software/program is shared by mu
 #### category: software development
 #### scope: expert
 
+## Word: instantiation
+### Description:
+Instantiation is when we produce an instance of some model/code. For example, in java, instantaition means we create a new object of a class with the word "new". So, in general, instantiation is the creation of new context/object. The new object is called instance.
+#### search keywords: instance, instantiation
+#### relevant words: initialization
+#### category: software development
+#### scope: beginner
+
+## Word: initialization
+### Description:
+Initialization is when we assign a value to a variable in code. For example, in java, we initialze an integer by assigning it some value, whether be it a number or null, e.g. int number = 5. So, in general, when we initialize a variable or an object, we assign some value to it. Hence, initialization comes after instantiation.
+#### search keywords: initialization, initialize
+#### relevant words: instantiation
+#### category: software development
+#### scope: beginner
+
