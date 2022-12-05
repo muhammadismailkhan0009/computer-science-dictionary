@@ -272,3 +272,11 @@ Transaction is defined as the completion of a set of commands that perform some 
 #### category: software development
 #### scope: beginner, intermediate
 
+## Word: callable
+### Description:
+In programming, a callable is anything that can be called like a function/method. In other words, we can use a callable just like a function.
+#### search keywords: callable
+#### relevant words: 
+#### category: software development
+#### scope: intermediate
+
