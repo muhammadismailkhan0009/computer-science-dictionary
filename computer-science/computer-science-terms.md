@@ -280,3 +280,11 @@ In programming, a callable is anything that can be called like a function/method
 #### category: software development
 #### scope: intermediate
 
+## RPC(remote procedure call)
+### Description:
+rpc is when a computer program executes a code block on another computer without client/programmer explicitly building any remote connection to that computer. 
+#### search keywords: remote
+#### relevant words: 
+#### category: software development
+#### scope: expert
+
