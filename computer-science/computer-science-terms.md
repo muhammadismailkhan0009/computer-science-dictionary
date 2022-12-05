@@ -264,3 +264,11 @@ Initialization is when we assign a value to a variable in code. For example, in 
 #### category: software development
 #### scope: beginner
 
+## Word: transaction
+### Description:
+Transaction is defined as the completion of a set of commands that perform some specified instructions. For example, a client asks to sum two numbers, and gives numbers as input. The transction will take those numbers as input(given information), calls the designated method to calculate the sum, and returns the result(output) back to the client. All the instructions that were executed after input was received from client till the result was returned fall under teh scope of that specific transaction.
+#### search keywords: transaction
+#### relevant words: database
+#### category: software development
+#### scope: beginner, intermediate
+
